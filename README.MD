@@ -4,7 +4,7 @@
 
 # ✅ Descrição do Projeto
 Aplicação construída na 5º edição do NLW (Next Level Week) na trila de React Native, realizada pela [Rocketseat](https://rocketseat.com.br/).<br>
-Tem como objetivo, gerenciar o tratamento e cuidado com as plantas, ou seja, o usuario seleciona as plantas e horaio, assim a aplicação informa os horários atravéis de notificações, para regar e como devem ser tratadas de acordo com o ambiente e comodo da casa.<br><br>
+Tem como objetivo, gerenciar o tratamento e cuidado com as plantas, ou seja, o usuario seleciona as plantas e horário, assim a aplicação informa atravéis de notificações, para regar e como devem ser tratadas de acordo com o ambiente e comodo da casa.<br><br>
 
 
 # 🎁 Imagens do resultado do projeto
